@@ -1,8 +1,8 @@
 #include <avr/interrupt.h>
 #include <avr/wdt.h>
 #include <util/atomic.h>
-#include "SevenSegmentTM1637.h"
-#define massimo 29
+#include "SevenSegmentTM1637.h"  // https://github.com/bremme/arduino-tm1637
+#define massimo 29               // la sequenza di numeri vanno da 1 al valore massimo
 #define randomSeed(s) srandom(s)
 
 volatile uint32_t seed;
