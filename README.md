@@ -8,3 +8,6 @@ this number is declared by variable on sketch.
 the sequence is plotted before on serialmonitor, but on display looks like random numbers was generated in real time!
 Have fun.
 ![alt text](https://github.com/studiociodo/thebomb-random-numbers/blob/main/schematic.png?raw=true)
+
+https://github.com/studiociodo/thebomb-random-numbers/blob/main/preview.mp4
+
