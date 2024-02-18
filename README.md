@@ -11,7 +11,10 @@ Have fun.
 
 
 
-<video src="https://user-images.githubusercontent.com/studiociodo/thebomb-random-numbers/main/preview.mp4"></video>
+<video src="https://github.com/studiociodo/thebomb-random-numbers/assets/150088592/37e1d380-b2be-4977-9d52-8d6580d98dec"></video>
 
-<video src="https://github.com/studiociodo/thebomb-random-numbers/raw/main/preview.mp4"></video>
+
+
+
+
 
