@@ -9,5 +9,5 @@ the sequence is plotted before on serialmonitor, but on display looks like rando
 Have fun.
 ![alt text](https://github.com/studiociodo/thebomb-random-numbers/blob/main/schematic.png?raw=true)
 
-!(https://github.com/studiociodo/thebomb-random-numbers/blob/main/preview.mp4)
+![preview](https://github.com/studiociodo/thebomb-random-numbers/blob/main/preview.mp4)
 
