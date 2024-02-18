@@ -1,5 +1,5 @@
-# thebomb-random-numbers
-Arduino-Based Random number generator
+# Arduino-Based Random number generator
+
 
 The simplest and most effective gift for a Teacher:
 They have a problem to choose a student for question and select it randomly,
@@ -11,4 +11,7 @@ Have fun.
 
 
 
-<video src="https://raw.githubusercontent.com/studiociodo/thebomb-random-numbers/main/preview.mp4"></video>
+<video src="https://user-images.githubusercontent.com/studiociodo/thebomb-random-numbers/main/preview.mp4"></video>
+
+<video src="https://github.com/studiociodo/thebomb-random-numbers/raw/main/preview.mp4"></video>
+
